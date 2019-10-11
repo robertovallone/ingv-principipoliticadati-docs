@@ -1,8 +1,7 @@
-# Starter kit per la pubblicazione su Docs Italia
+# Principi della Politica dei Dati dell'Istituto Nazionale di Geofisica e Vulcanologia (Italia)
 
 
-Questo repository contiene tutti i file necessari per pubblicare rapidamente un nuovo documento su Docs Italia. 
-
+Questo repository contine la documentazione relativa all Politica dei Dati dell#INGV)
 ## Contenuto
 
 - Un repository di configurazione che dovrà essere nominato `italia-conf`
